@@ -73,6 +73,7 @@ input, textarea {
 }
 
 .btn.btn-dark {
+  background-color: #000;
   border-color: #000;
   border-radius: 0;
 }
