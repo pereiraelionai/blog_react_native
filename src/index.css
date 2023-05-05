@@ -79,6 +79,7 @@ input, textarea {
 }
 
 .btn.btn-outline {
+  background-color: #fff;
   border-color: transparent;
   border-radius: 0;
   color: #000;
